@@ -1,0 +1,26 @@
+@page
+@model EProtokoll.Api.Pages.NotificationsModel
+
+<h1>Notifications</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Type</th>
+            <th>Message</th>
+            <th>Read</th>
+            <th>Created</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model.Items)
+    {
+        <tr>
+            <td>@item.Type</td>
+            <td>@item.Message</td>
+            <td>@item.IsRead</td>
+            <td>@item.CreatedAt.ToString("yyyy-MM-dd HH:mm")</td>
+        </tr>
+    }
+    </tbody>
+</table>

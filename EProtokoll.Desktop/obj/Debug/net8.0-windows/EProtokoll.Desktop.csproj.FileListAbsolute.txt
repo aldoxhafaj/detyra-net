@@ -1,0 +1,10 @@
+/Users/juxhinxhihani/detyra/EProtokoll.Desktop/obj/Debug/net8.0-windows/MainWindow.baml
+/Users/juxhinxhihani/detyra/EProtokoll.Desktop/obj/Debug/net8.0-windows/MainWindow.g.cs
+/Users/juxhinxhihani/detyra/EProtokoll.Desktop/obj/Debug/net8.0-windows/App.g.cs
+/Users/juxhinxhihani/detyra/EProtokoll.Desktop/obj/Debug/net8.0-windows/EProtokoll.Desktop_MarkupCompile.cache
+/Users/juxhinxhihani/detyra/EProtokoll.Desktop/obj/Debug/net8.0-windows/EProtokoll.Desktop.g.resources
+/Users/juxhinxhihani/detyra/EProtokoll.Desktop/obj/Debug/net8.0-windows/EProtokoll.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juxhinxhihani/detyra/EProtokoll.Desktop/obj/Debug/net8.0-windows/EProtokoll.Desktop.AssemblyInfoInputs.cache
+/Users/juxhinxhihani/detyra/EProtokoll.Desktop/obj/Debug/net8.0-windows/EProtokoll.Desktop.AssemblyInfo.cs
+/Users/juxhinxhihani/detyra/EProtokoll.Desktop/obj/Debug/net8.0-windows/EProtokoll.Desktop.csproj.CoreCompileInputs.cache
+/Users/juxhinxhihani/detyra/EProtokoll.Desktop/obj/Debug/net8.0-windows/EProtokoll.Desktop.sourcelink.json

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EProtokoll.Api", "EProtokoll.Api\EProtokoll.Api.csproj", "{6120C053-BCB9-4CDD-9AD8-94A46CCDBF5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EProtokoll.Desktop", "EProtokoll.Desktop\EProtokoll.Desktop.csproj", "{6ACE3DAD-7AEB-44AF-9788-17DD52CB3D27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6120C053-BCB9-4CDD-9AD8-94A46CCDBF5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6120C053-BCB9-4CDD-9AD8-94A46CCDBF5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6120C053-BCB9-4CDD-9AD8-94A46CCDBF5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6120C053-BCB9-4CDD-9AD8-94A46CCDBF5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ACE3DAD-7AEB-44AF-9788-17DD52CB3D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ACE3DAD-7AEB-44AF-9788-17DD52CB3D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ACE3DAD-7AEB-44AF-9788-17DD52CB3D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ACE3DAD-7AEB-44AF-9788-17DD52CB3D27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

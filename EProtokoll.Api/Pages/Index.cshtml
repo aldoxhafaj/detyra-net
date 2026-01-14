@@ -1,0 +1,36 @@
+@page
+@model EProtokoll.Api.Pages.IndexModel
+
+<h1>Dashboard</h1>
+
+<div class="card">Total Letters: @Model.TotalLetters</div>
+<div class="card">Incoming: @Model.Incoming</div>
+<div class="card">Outgoing: @Model.Outgoing</div>
+<div class="card">Internal: @Model.Internal</div>
+
+<h2>Latest Letters</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Protocol</th>
+            <th>Type</th>
+            <th>Classification</th>
+            <th>Subject</th>
+            <th>Status</th>
+            <th>Created</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var letter in Model.LatestLetters)
+    {
+        <tr>
+            <td>@letter.ProtocolNumber</td>
+            <td>@letter.Type</td>
+            <td>@letter.Classification</td>
+            <td>@letter.Subject</td>
+            <td>@letter.Status</td>
+            <td>@letter.CreatedAt.ToString("yyyy-MM-dd")</td>
+        </tr>
+    }
+    </tbody>
+</table>

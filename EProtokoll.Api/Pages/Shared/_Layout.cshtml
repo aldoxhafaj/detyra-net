@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>eProtokoll</title>
+    <style>
+        body { font-family: "Georgia", serif; background: #f4f1ec; margin: 0; color: #1b1b1b; }
+        header { background: #2c2a26; color: #f4f1ec; padding: 16px 24px; }
+        header a { color: #f4f1ec; text-decoration: none; margin-right: 16px; }
+        main { padding: 24px; }
+        table { width: 100%; border-collapse: collapse; margin-top: 16px; }
+        th, td { border-bottom: 1px solid #d6d1c8; padding: 8px; text-align: left; }
+        .card { background: #fff; padding: 16px; border: 1px solid #e0dbd1; border-radius: 8px; display: inline-block; margin-right: 12px; }
+    </style>
+</head>
+<body>
+    <header>
+        <a href="/">Dashboard</a>
+        <a href="/Letters">Letters</a>
+        <a href="/Notifications">Notifications</a>
+        <span>eProtokoll Web</span>
+    </header>
+    <main>
+        @RenderBody()
+    </main>
+</body>
+</html>

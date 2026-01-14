@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "RFJZhBmg0+NZDtmEalRjJI70qE3ZHTxg4XSDvypzo+s=",
+  "Source": "EProtokoll.Api",
+  "BasePath": "_content/EProtokoll.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EProtokoll.Api/wwwroot",
+      "Source": "EProtokoll.Api",
+      "ContentRoot": "/Users/juxhinxhihani/detyra/EProtokoll.Api/wwwroot/",
+      "BasePath": "_content/EProtokoll.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,4 +1,4 @@
-Create please Web and Desktop application with this requirements:
+Create please Web and Desktop application with this requirements using .net core 8.
 
 Kërkesa Funksionale - eProtokoll
 Kërkesa Baze

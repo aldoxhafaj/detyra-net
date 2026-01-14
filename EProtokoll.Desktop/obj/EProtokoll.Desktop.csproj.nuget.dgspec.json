@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/juxhinxhihani/detyra/EProtokoll.Desktop/EProtokoll.Desktop.csproj": {}
+  },
+  "projects": {
+    "/Users/juxhinxhihani/detyra/EProtokoll.Desktop/EProtokoll.Desktop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/juxhinxhihani/detyra/EProtokoll.Desktop/EProtokoll.Desktop.csproj",
+        "projectName": "EProtokoll.Desktop",
+        "projectPath": "/Users/juxhinxhihani/detyra/EProtokoll.Desktop/EProtokoll.Desktop.csproj",
+        "packagesPath": "/Users/juxhinxhihani/.nuget/packages/",
+        "outputPath": "/Users/juxhinxhihani/detyra/EProtokoll.Desktop/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/juxhinxhihani/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.1, 8.0.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

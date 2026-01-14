@@ -1,0 +1,6 @@
+@EProtokoll.Api_HostAddress = http://localhost:0
+
+GET {{EProtokoll.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

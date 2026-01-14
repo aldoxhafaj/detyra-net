@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fp2RIvlnKGv/AnTgclDltWzW2RUIy8Cc+Vv6fOm9zQa/mNR4pb2Rf4cgwUvUKTk7z5pYIdfYW3ofSy/YtH0ebg==",
+  "success": true,
+  "projectFilePath": "/Users/juxhinxhihani/detyra/EProtokoll.Desktop/EProtokoll.Desktop.csproj",
+  "expectedPackageFiles": [
+    "/Users/juxhinxhihani/.nuget/packages/microsoft.windowsdesktop.app.ref/8.0.1/microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
