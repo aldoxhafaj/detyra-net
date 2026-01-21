@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output (for ALL projects)
+**/bin/
+**/obj/
+
+# Rider / VS Code (optional)
+.idea/
+.vscode/
